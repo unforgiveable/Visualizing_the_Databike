@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4551"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ArtificialHorizon.svg"
+   inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\CameraButton_free.png"
+   inkscape:export-xdpi="2427"
+   inkscape:export-ydpi="2427">
+  <defs
+     id="defs4545" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.9445932"
+     inkscape:cx="236.90653"
+     inkscape:cy="870.46115"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     showguides="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5119"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4548">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Horizon"
+     style="display:inline">
+    <path
+       style="opacity:1;vector-effect:none;fill:#a0a0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 61.383333,67.870834 V 52.525001 h 13.758333 v 15.345833"
+       id="path1105"
+       inkscape:connector-curvature="0"
+       inkscape:label="blue"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#46a046;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 61.383333,67.870834 10e-7,15.345833 h 13.758333 l -10e-7,-15.345833"
+       id="path1103"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="green"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086" />
+    <g
+       id="g863"
+       inkscape:label="Text_-1"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path845"
+         d="m 67.733332,68.4 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path847"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text851"
+         y="69.11763"
+         x="69.852592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.852592"
+           id="tspan849"
+           sodipodi:role="line">-10</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.69751"
+         y="69.119339"
+         id="text855"><tspan
+           sodipodi:role="line"
+           id="tspan853"
+           x="66.69751"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-10</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_-2"
+       id="g877"
+       transform="translate(6.6666665e-7,1.0583333)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733332,68.4 h 1.058334"
+         id="path865"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path867"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.852592"
+         y="69.11763"
+         id="text871"><tspan
+           sodipodi:role="line"
+           id="tspan869"
+           x="69.852592"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-20</tspan></text>
+      <text
+         id="text875"
+         y="69.119339"
+         x="66.69751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.69751"
+           id="tspan873"
+           sodipodi:role="line">-20</tspan></text>
+    </g>
+    <g
+       transform="translate(6.6666665e-7,2.1166667)"
+       id="g891"
+       inkscape:label="Text_-3"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path879"
+         d="m 67.733332,68.4 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path881"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text885"
+         y="69.11763"
+         x="69.852592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.852592"
+           id="tspan883"
+           sodipodi:role="line">-30</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.69751"
+         y="69.119339"
+         id="text889"><tspan
+           sodipodi:role="line"
+           id="tspan887"
+           x="66.69751"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-30</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_-4"
+       id="g905"
+       transform="translate(1.3333333e-6,3.175)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733332,68.4 h 1.058334"
+         id="path893"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path895"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.852592"
+         y="69.11763"
+         id="text899"><tspan
+           sodipodi:role="line"
+           id="tspan897"
+           x="69.852592"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-40</tspan></text>
+      <text
+         id="text903"
+         y="69.119339"
+         x="66.69751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.69751"
+           id="tspan901"
+           sodipodi:role="line">-40</tspan></text>
+    </g>
+    <g
+       transform="translate(1.3333333e-6,4.2333333)"
+       id="g919"
+       inkscape:label="Text_-5"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path907"
+         d="m 67.733332,68.4 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path909"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text913"
+         y="69.11763"
+         x="69.852592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.852592"
+           id="tspan911"
+           sodipodi:role="line">-50</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.69751"
+         y="69.119339"
+         id="text917"><tspan
+           sodipodi:role="line"
+           id="tspan915"
+           x="66.69751"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-50</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_-6"
+       id="g933"
+       transform="translate(6.6666665e-7,5.2916663)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733332,68.4 h 1.058334"
+         id="path921"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path923"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.852592"
+         y="69.11763"
+         id="text927"><tspan
+           sodipodi:role="line"
+           id="tspan925"
+           x="69.852592"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-60</tspan></text>
+      <text
+         id="text931"
+         y="69.119339"
+         x="66.69751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.69751"
+           id="tspan929"
+           sodipodi:role="line">-60</tspan></text>
+    </g>
+    <g
+       transform="translate(1.3333333e-6,6.35)"
+       id="g947"
+       inkscape:label="Text_-7"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path935"
+         d="m 67.733332,68.4 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path937"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text941"
+         y="69.11763"
+         x="69.852592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.852592"
+           id="tspan939"
+           sodipodi:role="line">-70</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.69751"
+         y="69.119339"
+         id="text945"><tspan
+           sodipodi:role="line"
+           id="tspan943"
+           x="66.69751"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-70</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_-8"
+       id="g961"
+       transform="translate(1.3333333e-6,7.4083333)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733332,68.4 h 1.058334"
+         id="path949"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path951"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.852592"
+         y="69.11763"
+         id="text955"><tspan
+           sodipodi:role="line"
+           id="tspan953"
+           x="69.852592"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-80</tspan></text>
+      <text
+         id="text959"
+         y="69.119339"
+         x="66.69751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.69751"
+           id="tspan957"
+           sodipodi:role="line">-80</tspan></text>
+    </g>
+    <g
+       transform="translate(1.3333333e-6,8.4666667)"
+       id="g975"
+       inkscape:label="Text_-9"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path963"
+         d="m 67.733332,68.4 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path965"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text969"
+         y="69.11763"
+         x="69.852592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.852592"
+           id="tspan967"
+           sodipodi:role="line">-90</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.69751"
+         y="69.119339"
+         id="text973"><tspan
+           sodipodi:role="line"
+           id="tspan971"
+           x="66.69751"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">-90</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_1"
+       id="g989"
+       transform="translate(6.6666665e-7,-2.1166667)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733333,69.458333 h 1.058334"
+         id="path977"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path979"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.747353"
+         y="69.11763"
+         id="text983"><tspan
+           sodipodi:role="line"
+           id="tspan981"
+           x="69.747353"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">10</tspan></text>
+      <text
+         id="text987"
+         y="69.119339"
+         x="66.773514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.773514"
+           id="tspan985"
+           sodipodi:role="line">10</tspan></text>
+    </g>
+    <g
+       transform="translate(3.3333332e-7,-3.1749997)"
+       id="g1003"
+       inkscape:label="Text_2"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path991"
+         d="m 67.733333,69.458333 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path993"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text997"
+         y="69.11763"
+         x="69.747353"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.747353"
+           id="tspan995"
+           sodipodi:role="line">20</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.773514"
+         y="69.119339"
+         id="text1001"><tspan
+           sodipodi:role="line"
+           id="tspan999"
+           x="66.773514"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">20</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_3"
+       id="g1017"
+       transform="translate(3.3333332e-7,-4.233333)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733333,69.458333 h 1.058334"
+         id="path1005"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path1007"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.747353"
+         y="69.11763"
+         id="text1011"><tspan
+           sodipodi:role="line"
+           id="tspan1009"
+           x="69.747353"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">30</tspan></text>
+      <text
+         id="text1015"
+         y="69.119339"
+         x="66.773514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.773514"
+           id="tspan1013"
+           sodipodi:role="line">30</tspan></text>
+    </g>
+    <g
+       transform="translate(3.3333332e-7,-5.2916663)"
+       id="g1031"
+       inkscape:label="Text_4"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1019"
+         d="m 67.733333,69.458333 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1021"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text1025"
+         y="69.11763"
+         x="69.747353"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.747353"
+           id="tspan1023"
+           sodipodi:role="line">40</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.773514"
+         y="69.119339"
+         id="text1029"><tspan
+           sodipodi:role="line"
+           id="tspan1027"
+           x="66.773514"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">40</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_5"
+       id="g1045"
+       transform="translate(6.6666665e-7,-6.3500003)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733333,69.458333 h 1.058334"
+         id="path1033"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path1035"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.747353"
+         y="69.11763"
+         id="text1039"><tspan
+           sodipodi:role="line"
+           id="tspan1037"
+           x="69.747353"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">50</tspan></text>
+      <text
+         id="text1043"
+         y="69.119339"
+         x="66.773514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.773514"
+           id="tspan1041"
+           sodipodi:role="line">50</tspan></text>
+    </g>
+    <g
+       transform="translate(3.3333332e-7,-7.408333)"
+       id="g1059"
+       inkscape:label="Text_6"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1047"
+         d="m 67.733333,69.458333 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1049"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text1053"
+         y="69.11763"
+         x="69.747353"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.747353"
+           id="tspan1051"
+           sodipodi:role="line">60</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.773514"
+         y="69.119339"
+         id="text1057"><tspan
+           sodipodi:role="line"
+           id="tspan1055"
+           x="66.773514"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">60</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_7"
+       id="g1073"
+       transform="translate(3.3333332e-7,-8.4666663)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733333,69.458333 h 1.058334"
+         id="path1061"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path1063"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.747353"
+         y="69.11763"
+         id="text1067"><tspan
+           sodipodi:role="line"
+           id="tspan1065"
+           x="69.747353"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">70</tspan></text>
+      <text
+         id="text1071"
+         y="69.119339"
+         x="66.773514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.773514"
+           id="tspan1069"
+           sodipodi:role="line">70</tspan></text>
+    </g>
+    <g
+       transform="translate(3.3333332e-7,-9.5249997)"
+       id="g1087"
+       inkscape:label="Text_8"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1075"
+         d="m 67.733333,69.458333 h 1.058334"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1077"
+         d="m 67.204166,68.929167 h 2.116666"
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text1081"
+         y="69.11763"
+         x="69.747353"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.11763"
+           x="69.747353"
+           id="tspan1079"
+           sodipodi:role="line">80</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="66.773514"
+         y="69.119339"
+         id="text1085"><tspan
+           sodipodi:role="line"
+           id="tspan1083"
+           x="66.773514"
+           y="69.119339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">80</tspan></text>
+    </g>
+    <g
+       inkscape:label="Text_9"
+       id="g1101"
+       transform="translate(3.3333332e-7,-10.583333)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086">
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.733333,69.458333 h 1.058334"
+         id="path1089"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 67.204166,68.929167 h 2.116666"
+         id="path1091"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="69.747353"
+         y="69.11763"
+         id="text1095"><tspan
+           sodipodi:role="line"
+           id="tspan1093"
+           x="69.747353"
+           y="69.11763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">90</tspan></text>
+      <text
+         id="text1099"
+         y="69.119339"
+         x="66.773514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5291667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="69.119339"
+           x="66.773514"
+           id="tspan1097"
+           sodipodi:role="line">90</tspan></text>
+    </g>
+    <path
+       style="opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06588125;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 61.383333,67.870834 H 75.141666"
+       id="path843"
+       inkscape:connector-curvature="0"
+       inkscape:label="line"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Horizon.png"
+       inkscape:export-xdpi="3399.1086"
+       inkscape:export-ydpi="3399.1086" />
+  </g>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="opacity:1;vector-effect:none;fill:#969696;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.24944882;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 244,242.51953 v 14 a 14,14 0 0 1 14,-14 z m 14,0 a 14,14 0 0 1 14,14 v -14 z m 14,14 a 14,14 0 0 1 -14,14 h 14 z m -14,14 a 14,14 0 0 1 -14,-14 v 14 z"
+       transform="scale(0.26458333)"
+       id="path1382"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Background.png"
+       inkscape:export-xdpi="3479.8501"
+       inkscape:export-ydpi="3479.8501" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Reticle"
+     style="display:inline">
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:0.13229167;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 66.939582,67.870834 h 0.79375"
+       id="path1108"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:label="left"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Target.png"
+       inkscape:export-xdpi="4681.1401"
+       inkscape:export-ydpi="4681.1401" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:0.13229166;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 69.585416,67.870834 h -0.79375"
+       id="path1110"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:label="right"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Target.png"
+       inkscape:export-xdpi="4681.1401"
+       inkscape:export-ydpi="4681.1401" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:0.05823573;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path1115"
+       cx="68.262032"
+       cy="67.87207"
+       r="0.058235727"
+       inkscape:label="dot"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Target.png"
+       inkscape:export-xdpi="4681.1401"
+       inkscape:export-ydpi="4681.1401" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 68.2625,64.573357 -0.166582,0.333164 h 0.333164 z"
+       id="path1202"
+       inkscape:connector-curvature="0"
+       inkscape:label="arrow"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_Target.png"
+       inkscape:export-xdpi="4681.1401"
+       inkscape:export-ydpi="4681.1401" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="TiltDial"
+     style="display:inline">
+    <path
+       inkscape:label="ring_fill"
+       transform="scale(0.26458333)"
+       inkscape:connector-curvature="0"
+       id="path1138"
+       d="m 258,242.51953 a 14,14 0 0 0 -14,14 14,14 0 0 0 14,14 14,14 0 0 0 14,-14 14,14 0 0 0 -14,-14 z m 0,1.11524 A 12.884955,12.884955 0 0 1 270.88477,256.51953 12.884955,12.884955 0 0 1 258,269.4043 12.884955,12.884955 0 0 1 245.11523,256.51953 12.884955,12.884955 0 0 1 258,243.63477 Z"
+       style="opacity:1;vector-effect:none;fill:#323232;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.24999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_TiltDial.png"
+       inkscape:export-xdpi="3479.7876"
+       inkscape:export-ydpi="3479.7876" />
+    <g
+       id="g1162"
+       inkscape:label="thick_lines"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_TiltDial.png"
+       inkscape:export-xdpi="3479.7876"
+       inkscape:export-ydpi="3479.7876">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label="line_0"
+         inkscape:connector-curvature="0"
+         id="path1136"
+         d="m 68.262499,64.166667 v 0.264584"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 70.114582,64.662931 69.98229,64.892068"
+         id="path1140"
+         inkscape:connector-curvature="0"
+         inkscape:label="line_3" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label="line_6"
+         inkscape:connector-curvature="0"
+         id="path1142"
+         d="m 71.470401,66.01875 -0.229137,0.132292"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 71.966665,67.870833 H 71.702081"
+         id="path1144"
+         inkscape:connector-curvature="0"
+         inkscape:label="line_9" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label="line_-9"
+         inkscape:connector-curvature="0"
+         id="path1146"
+         d="m 64.558332,67.870834 h 0.264584"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 65.054596,66.018751 0.229137,0.132293"
+         id="path1148"
+         inkscape:connector-curvature="0"
+         inkscape:label="line_-6" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label="line_-3"
+         inkscape:connector-curvature="0"
+         id="path1150"
+         d="m 66.410415,64.662932 0.132292,0.229137"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g1200"
+       inkscape:label="thin_lines"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_TiltDial.png"
+       inkscape:export-xdpi="3479.7876"
+       inkscape:export-ydpi="3479.7876">
+      <path
+         inkscape:label="thin"
+         inkscape:connector-curvature="0"
+         id="path1164"
+         d="m 67.619277,64.222942 0.04595,0.260564"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 68.905721,64.222942 -0.04595,0.260564"
+         id="path1166"
+         inkscape:connector-curvature="0"
+         inkscape:label="thin"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:label="thin"
+         inkscape:connector-curvature="0"
+         id="path1168"
+         d="m 69.529399,64.390056 -0.0905,0.248627"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 70.643492,65.033279 -0.170078,0.20268"
+         id="path1170"
+         inkscape:connector-curvature="0"
+         inkscape:label="thin"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:label="thin"
+         inkscape:connector-curvature="0"
+         id="path1172"
+         d="m 71.100055,65.489843 -0.202689,0.170068"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 71.743276,66.603937 -0.248632,0.09049"
+         id="path1174"
+         inkscape:connector-curvature="0"
+         inkscape:label="thin"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:label="thin"
+         inkscape:connector-curvature="0"
+         id="path1176"
+         d="m 71.91039,67.227615 -0.260568,0.04594"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 66.995599,64.390056 0.0905,0.248627"
+         id="path1178"
+         inkscape:connector-curvature="0"
+         inkscape:label="thin"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:label="thin"
+         inkscape:connector-curvature="0"
+         id="path1180"
+         d="m 65.881506,65.033279 0.170078,0.20268"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 65.424943,65.489843 0.202689,0.170068"
+         id="path1182"
+         inkscape:connector-curvature="0"
+         inkscape:label="thin"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:label="thin"
+         inkscape:connector-curvature="0"
+         id="path1184"
+         d="m 64.781722,66.603937 0.248632,0.09049"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02645833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 64.614608,67.227615 0.260568,0.04594"
+         id="path1186"
+         inkscape:connector-curvature="0"
+         inkscape:label="thin"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.24999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 258,242.51953 a 14,14 0 0 0 -14,14 14,14 0 0 0 14,14 14,14 0 0 0 14,-14 14,14 0 0 0 -14,-14 z m 0,1.11524 A 12.884955,12.884955 0 0 1 270.88477,256.51953 12.884955,12.884955 0 0 1 258,269.4043 12.884955,12.884955 0 0 1 245.11523,256.51953 12.884955,12.884955 0 0 1 258,243.63477 Z"
+       id="path1118"
+       inkscape:connector-curvature="0"
+       inkscape:label="ring"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\ArtificialHorizon_TiltDial.png"
+       inkscape:export-xdpi="3479.7876"
+       inkscape:export-ydpi="3479.7876" />
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="visualizing_the_databike">
+    <metadata>
+        <name>Test track</name>
+        <extensions>
+            <bikename>Lapierre_Zesty_AM_227</bikename>
+            <pedaloffset>10.21</pedaloffset>
+        </extensions>
+    </metadata>
+    <trk>
+        <trkseg>
+            <trkpt lat="47.263308" lon="11.353412">
+                <ele>579</ele>
+                <time>2020-04-17T14:20:04.000</time>
+                <extensions>
+                    <absrotx>2</absrotx>
+                    <absroty>3</absroty>
+                    <absrotz>4</absrotz>
+                    <addrotx>0</addrotx>
+                    <addroty>0</addroty>
+                    <addrotz>0</addrotz>
+                    <wheelrpm>4.33333</wheelrpm>
+                    <steeringrot>-21.4</steeringrot>
+                    <pedalrot>14.43</pedalrot>
+                    <pedalrotdir>1</pedalrotdir>
+                    <gearfront>1</gearfront>
+                    <gearrear>4</gearrear>
+                    <brakeright>0</brakeright>
+                    <brakeleft>0.321</brakeleft>
+                    <suspfront>12</suspfront>
+                    <susprear>2.3</susprear>
+                    <seatpos>0.21</seatpos>
+                </extensions>
+            </trkpt>
+            <trkpt lat="47.263208" lon="11.351891">
+                <ele>579</ele>
+                <time>2020-04-17T14:20:05.000</time>
+                <extensions>
+                    <absrotx>2.5</absrotx>
+                    <absroty>3.5</absroty>
+                    <absrotz>4.5</absrotz>
+                    <addrotx>0.5</addrotx>
+                    <addroty>0.5</addroty>
+                    <addrotz>0.5</addrotz>
+                    <wheelrpm>4.33333</wheelrpm>
+                    <steeringrot>-21.4</steeringrot>
+                    <pedalrot>14.43</pedalrot>
+                    <pedalrotdir>1</pedalrotdir>
+                    <gearfront>1</gearfront>
+                    <gearrear>4</gearrear>
+                    <brakeright>0</brakeright>
+                    <brakeleft>0.321</brakeleft>
+                    <suspfront>12</suspfront>
+                    <susprear>2.3</susprear>
+                    <seatpos>0.21</seatpos>
+                </extensions>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

@@ -1,0 +1,33 @@
+Export Blender object as fbx using the following settings:
+(not listed options are deselected)
+
+Select collection 'Bike Geometry'
+Export -> fbx
+
+Include:
+    Active Collection
+    Object Types: Armature, Mesh
+
+Transform:
+    Scale 1.00
+    Apply Scalings All Local
+    Forward -Z Forward
+    Up Y Up
+    Apply Unit
+
+Geometry:
+    Smoothing Normals Only
+    Apply Modifiers
+
+Armature:
+    Primary Bone Axis Y Axis
+    Secondary Bone Axis X Axis
+    Armature FBXNode Type Null
+
+Bake Animation (Yes):
+    Key All Bones
+    NLA Strips
+    All Actions
+    Force Start/End Keying
+    Sampling Rate 1.00
+    Simplify 1.00

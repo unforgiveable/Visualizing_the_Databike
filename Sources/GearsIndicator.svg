@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4551"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="GearsIndicator.svg"
+   inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\CameraButton_free.png"
+   inkscape:export-xdpi="2427"
+   inkscape:export-ydpi="2427">
+  <defs
+     id="defs4545" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="257.05716"
+     inkscape:cy="872.20119"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     showguides="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5119"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4548">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline">
+    <path
+       style="opacity:1;vector-effect:none;fill:#969696;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1190625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 65.0875,64.695833 h 8.466667 v 4.233334 H 65.0875 Z"
+       id="path1389"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="background"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Gear1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.24944882;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 253.5,245.51953 -0.5,1 h 2 l -0.5,-1 z m -0.5,13 0.5,1 h 1 l 0.5,-1 z"
+       transform="scale(0.26458333)"
+       id="path850"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path862"
+       d="m 67.713302,65.026823 -0.214806,0.20338 0.497253,0.180987 -0.03382,-0.293874 z m -1.30072,3.186904 0.03382,0.293874 0.248628,0.09049 0.214806,-0.20338 z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 68.29332,65.308645 -0.271412,0.117647 0.405364,0.340142 0.06873,-0.287718 z m -2.312262,2.549838 -0.06873,0.287718 0.202685,0.170068 0.271412,-0.117646 z"
+       id="path864"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path866"
+       d="m 68.74197,65.771849 -0.295282,0.01772 0.264583,0.458271 0.16299,-0.246859 z m -3.044912,1.605224 -0.16299,0.246859 0.132295,0.229134 0.295281,-0.01772 z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 69.005138,66.360566 -0.283535,-0.08434 0.09189,0.521126 0.237591,-0.176225 z m -3.4103,0.466996 -0.237591,0.176225 0.04595,0.260564 0.283534,0.08434 z"
+       id="path868"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path870"
+       d="m 69.051082,67.003787 -0.237589,-0.176228 -0.09189,0.521126 0.283535,-0.08434 z m -3.364355,-0.727558 -0.283535,0.08434 -0.04594,0.260566 0.237589,0.176228 z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 68.874261,67.623931 -0.162987,-0.246861 -0.264584,0.45827 0.295281,0.01772 z m -2.91262,-1.834359 -0.295282,-0.01772 -0.132288,0.22914 0.162987,0.24686 z"
+       id="path872"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path874"
+       d="m 68.496001,68.146199 -0.06873,-0.287718 -0.405365,0.34014 0.271412,0.117643 z m -2.10958,-2.719908 -0.271413,-0.117644 -0.202681,0.170076 0.06873,0.287717 z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 67.961927,68.507599 0.03382,-0.293874 -0.497253,0.180984 0.214807,0.203377 z m -1.052094,-3.277397 -0.214808,-0.203378 -0.248627,0.0905 -0.03382,0.293872 z"
+       id="path876"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path844"
+       cx="67.204163"
+       cy="66.8125"
+       r="1.5875"
+       inkscape:label="circle"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+  </g>
+  <g
+     inkscape:label="Gear2"
+     id="g898"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path878"
+       d="M 71.305208,64.960417 71.172917,65.225 h 0.529166 L 71.569792,64.960417 Z M 71.172917,68.4 l 0.132291,0.264583 h 0.264584 L 71.702083,68.4 Z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 71.946636,65.026865 -0.214806,0.20338 0.497253,0.180987 -0.03382,-0.293874 z m -1.30072,3.186904 0.03382,0.293874 0.248628,0.09049 0.214806,-0.20338 z"
+       id="path880"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path882"
+       d="m 72.526654,65.308687 -0.271412,0.117647 0.405364,0.340142 0.06873,-0.287718 z m -2.312262,2.549838 -0.06873,0.287718 0.202685,0.170068 0.271412,-0.117646 z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 72.975304,65.771891 -0.295282,0.01772 0.264583,0.458271 0.16299,-0.246859 z m -3.044912,1.605224 -0.16299,0.246859 0.132295,0.229134 0.295281,-0.01772 z"
+       id="path884"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path886"
+       d="m 73.238472,66.360608 -0.283535,-0.08434 0.09189,0.521126 0.237591,-0.176225 z m -3.4103,0.466996 -0.237591,0.176225 0.04595,0.260564 0.283534,0.08434 z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 73.284416,67.003829 -0.237589,-0.176228 -0.09189,0.521126 0.283535,-0.08434 z m -3.364355,-0.727558 -0.283535,0.08434 -0.04594,0.260566 0.237589,0.176228 z"
+       id="path888"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path890"
+       d="m 73.107595,67.623973 -0.162987,-0.246861 -0.264584,0.45827 0.295281,0.01772 z m -2.91262,-1.834359 -0.295282,-0.01772 -0.132288,0.22914 0.162987,0.24686 z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 72.729335,68.146241 -0.06873,-0.287718 -0.405365,0.34014 0.271412,0.117643 z m -2.10958,-2.719908 -0.271413,-0.117644 -0.202681,0.170076 0.06873,0.287717 z"
+       id="path892"
+       inkscape:connector-curvature="0"
+       inkscape:label="teethers"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <path
+       inkscape:label="teethers"
+       inkscape:connector-curvature="0"
+       id="path894"
+       d="m 72.195261,68.507641 0.03382,-0.293874 -0.497253,0.180984 0.214807,0.203377 z m -1.052094,-3.277397 -0.214808,-0.203378 -0.248627,0.0905 -0.03382,0.293872 z"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.066;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+    <circle
+       inkscape:label="circle"
+       r="1.5875"
+       cy="66.812538"
+       cx="71.4375"
+       id="circle896"
+       style="opacity:1;vector-effect:none;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.06614583;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Texts">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.194862"
+       y="68.136452"
+       id="text839"
+       inkscape:label="r"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="67.194862"
+         y="68.136452"
+         style="font-size:1.0583334px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="71.41832"
+       y="68.13446"
+       id="text839-6"
+       inkscape:label="f"
+       inkscape:export-filename="M:\Git\visualizing-the-databike\Project\Visualizing the Databike\Assets\Resources\UI\GearsIndicator.png"
+       inkscape:export-xdpi="2987.9724"
+       inkscape:export-ydpi="2987.9724"><tspan
+         sodipodi:role="line"
+         x="71.41832"
+         y="68.13446"
+         style="font-size:1.05833352px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan859">F</tspan></text>
+  </g>
+</svg>

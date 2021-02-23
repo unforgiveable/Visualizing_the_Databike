@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="visualizing_the_databike">    <!-- Schema extends on the gpx 1.1 format -->
+    <metadata>
+        <name>Test track</name>        <!-- Name of the timeline -->
+        <extensions>
+            <bikename>bike_name</bikename>            <!-- identifier of the bike, used for selecting properties -->
+            <pedaloffset>xx.x</pedaloffset>            <!-- offset for zeroed pedal position, 0 = right pedal towards front -->
+        </extensions>
+    </metadata>
+    <trk>
+        <trkseg>
+            <trkpt lat="xx.xxxxxx" lon="yy.yyyyyy">
+                <ele>xxx.x</ele>
+                <time>2020-01-13T01:01:01.000</time>
+                <extensions>
+                    <!-- Names in value limits refer to values specified in the bike definition file -->
+                    <!-- Absolute rotations are always used over additive ones if they are present -->
+                    <!-- Absolute rotations MUST be present on the first timestamp! -->
+                    <!-- Additive rotations must be given in every timestamp -->
+                    <absrotx>xx.x</absrotx>                    <!-- absolute rotation around the x axis (pos = front), [0-360], only required ~ every 10 timestamps -->
+                    <absroty>xx.x</absroty>                    <!-- absolute rotation around the y axis (pos = right side), [0-360], only required ~ every 10 timestamps -->
+                    <absrotz>xx.x</absrotz>                    <!-- absolute rotation around the z axis (pos = up), [0-360], only required ~ every 10 timestamps -->
+                    <addrotx>xx.x</addrotx>                    <!-- additive rotation around the x axis relative to the last trackpoint, [-360 - 360] -->
+                    <addroty>xx.x</addroty>                    <!-- additive rotation around the y axis relative to the last trackpoint, [-360 - 360] -->
+                    <addrotz>xx.x</addrotz>                    <!-- additive rotation around the z axis relative to the last trackpoint, [-360 - 360] -->
+                    <wheelrpm>xx.x</wheelrpm>                    <!-- wheel rotation in rpm, positive = forwards [-inf - +inf] -->
+                    <steeringrot>xx.x</steeringrot>                    <!-- steering rotation in deg, 0 = front, 90 = right, -90 = left, [-180 - 180] -->
+                    <pedalrot>xx.x</pedalrot>                    <!-- pedal rotation in deg clockwise, 0 = configured pedaloffset, [0-360] -->
+                    <pedalrotdir>x</pedalrotdir>                    <!-- pedal rotation direction used for interpolation, 1 = clockwise viewed from right, -1 = counterclockwise -->
+                    <gearfront>xx</gearfront>                    <!-- front gear selected, [1-frontgears] -->
+                    <gearrear>xx</gearrear>                    <!-- rear gear selected, [1-reargears] -->
+                    <brakeright>x.xx</brakeright>                    <!-- braking amount of right brake in 0.% of max, 0 = not braking, [0-1] -->
+                    <brakeleft>x.xx</brakeleft>                    <!-- braking amount of left brake in 0.% of max, 0 = not braking, [0-1] -->
+                    <suspfront>xx.x</suspfront>                    <!-- travel of front suspension cylinders in mm, 0 = fully extended, [0-maxfrontsus] -->
+                    <susprear>xx.x</susprear>                    <!-- travel of rear suspension cylinder in mm, 0 = fully extended, [0-maxrearsus] -->
+                    <seatpos>xx.x</seatpos>                    <!-- position of seat in mm, 0 = fully extended, [0-maxseatpos] -->
+                </extensions>
+            </trkpt>
+            <trkpt lat="xx.xxxxxx" lon="yy.yyyyyy">
+                <ele>xxx.x</ele>
+                <time>2020-01-13T01:01:01.000</time>
+                <extensions>
+                    <!-- Missing / empty absolute rotations are written like this -->
+                    <absrotx/>
+                    <absroty/>
+                    <absrotz/>
+                    <addrotx>xx.x</addrotx>
+                    <addroty>xx.x</addroty>
+                    <addrotz>xx.x</addrotz>
+                    <wheelrpm>xx.x</wheelrpm>
+                    <steeringrot>xx.x</steeringrot>
+                    <pedalrot>xx.x</pedalrot>
+                    <pedalrotdir>x</pedalrotdir>
+                    <gearfront>xx</gearfront>
+                    <gearrear>xx</gearrear>
+                    <brakeright>x.xx</brakeright>
+                    <brakeleft>x.xx</brakeleft>
+                    <suspfront>xx.x</suspfront>
+                    <susprear>xx.x</susprear>
+                    <seatpos>xx.x</seatpos>
+                </extensions>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

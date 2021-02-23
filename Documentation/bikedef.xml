@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bikedef version="1.0">
+    <bikename>unique_bike_name</bikename>    <!-- Identifier of the bike -->
+    <prefabpath>Prefabs/Bikes/unique_bike_name</prefabpath>    <!-- path to the prefab of the bike model -->
+    <frontgears>1</frontgears>    <!-- number of front gears, selectable from 1 to x -->
+    <reargears>10</reargears>    <!-- number of rear gears, selectable from 1 to x -->
+    <maxfrontsus>150.0</maxfrontsus>    <!-- maximum travel of front suspension in mm -->
+    <maxrearsus>60.0</maxrearsus>    <!-- maximum travel of rear suspension in mm -->
+    <maxseatpos>120.0</maxseatpos>    <!-- maximum position of seat in mm -->
+    <frontbrake>left</frontbrake> <!-- defines the brake lever for the front brake, "left" or "right"-->
+</bikedef>

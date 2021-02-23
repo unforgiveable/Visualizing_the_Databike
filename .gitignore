@@ -1,0 +1,10 @@
+
+Visualizing the Databike/.vs/**
+Visualizing the Databike/.vscode/**
+Visualizing the Databike/Library/**
+Visualizing the Databike/Temp/**
+Visualizing the Databike/obj/**
+*.cache
+*.log
+Visualizing the Databike/settings.xml
+.vs/**

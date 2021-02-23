@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Resolution>1217x832</Resolution>
+  <FullscreenMode>2</FullscreenMode>
+  <FPSLimit>60</FPSLimit>
+  <UIScale>1</UIScale>
+  <PedalOffset>-1</PedalOffset>
+  <ShowStatusBars>true</ShowStatusBars>
+  <ShowGearsIndicator>true</ShowGearsIndicator>
+  <ShowSteeringIndicator>true</ShowSteeringIndicator>
+  <ShowArtificialHorizon>true</ShowArtificialHorizon>
+  <ShowCompass>true</ShowCompass>
+</Settings>
