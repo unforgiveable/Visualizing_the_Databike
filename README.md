@@ -3,7 +3,9 @@
 My Bachelor Thesis project; Open-source mountain bike visualization
 
 The goal of the project was to visualize a recorded bike ride using the Unity engine.
-My thesis describes the architecture and inner workings of the project in detail. See the Documentation for additional materials.
+My thesis describes the architecture and inner workings of the project in detail. See the Documentation folder for additional materials.
+
+Project uses Unity version 2019.4.20f1 LTS
 
 
 ### Abstract from the thesis:
